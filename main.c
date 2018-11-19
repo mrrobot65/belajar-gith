@@ -4,5 +4,6 @@
 int main()
 {
     char str;
+    printf("berubah ya");
     return 0;
 }
