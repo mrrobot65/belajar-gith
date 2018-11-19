@@ -5,5 +5,7 @@ int main()
 {
     char str;
     printf("berubah ya");
+    printf("berubah ya");
+
     return 0;
 }
